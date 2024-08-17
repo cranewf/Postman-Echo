@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.postmanEcho;
 
 public class Main {
     public static void main(String[] args) {
